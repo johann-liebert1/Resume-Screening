@@ -5,3 +5,6 @@ streamlit
 matplotlib
 pandas
 nltk
+sklearn
+re
+pickle
