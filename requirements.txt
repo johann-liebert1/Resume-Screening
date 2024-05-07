@@ -1,0 +1,9 @@
+seaborn
+urlextract
+wordcloud
+streamlit
+matplotlib
+pandas
+nltk
+
+-e .
